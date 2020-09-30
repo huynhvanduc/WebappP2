@@ -19,8 +19,15 @@ using WebApp.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "D:\Trainning\Asp.net\WA\WebApp\Views\_ViewImports.cshtml"
+using WebApp.Components;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fc12825d73e12bacbf23dc7530d0cf818610c69b", @"/Views/Home/Watersports.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2176f5499582251db6d13138376202d02ac00fbf", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7bf1e0455853615219468aa211163c948856cd27", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Watersports : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Product>
     {
         #line hidden
@@ -49,7 +56,7 @@ using WebApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\n<html>\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc12825d73e12bacbf23dc7530d0cf818610c69b3031", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc12825d73e12bacbf23dc7530d0cf818610c69b3194", async() => {
                 WriteLiteral("\n    <link href=\"/lib/twitter-bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" />\n");
             }
             );
@@ -63,7 +70,7 @@ using WebApp.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc12825d73e12bacbf23dc7530d0cf818610c69b4080", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc12825d73e12bacbf23dc7530d0cf818610c69b4243", async() => {
                 WriteLiteral("\n    <h6 class=\"bg-secondary text-white text-center m-2 p-2\">Watersports</h6>\n    <div class=\"m-2\">\n        <table class=\"table table-sm table-striped table-bordered\"\n               data-id=\"");
 #nullable restore
 #line 11 "D:\Trainning\Asp.net\WA\WebApp\Views\Home\Watersports.cshtml"

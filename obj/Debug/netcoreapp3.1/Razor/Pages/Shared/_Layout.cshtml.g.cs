@@ -19,8 +19,15 @@ using WebApp.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\Trainning\Asp.net\WA\WebApp\Pages\_ViewImports.cshtml"
+using WebApp.Components;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"21724a61c8afa9fd7b2fc82439de14df802f125c", @"/Pages/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89200d1c42b8de9ce4c0b017051217c34884f0db", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8c12024e2c1bcd4f4648258601c2decb70db301f", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -49,7 +56,7 @@ using WebApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21724a61c8afa9fd7b2fc82439de14df802f125c3043", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21724a61c8afa9fd7b2fc82439de14df802f125c3206", async() => {
                 WriteLiteral("\r\n    <link href=\"/lib/twitter-bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" />\r\n    <title>");
 #nullable restore
 #line 5 "D:\Trainning\Asp.net\WA\WebApp\Pages\Shared\_Layout.cshtml"
@@ -71,7 +78,7 @@ using WebApp.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21724a61c8afa9fd7b2fc82439de14df802f125c4324", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21724a61c8afa9fd7b2fc82439de14df802f125c4487", async() => {
                 WriteLiteral("\r\n    <h5 class=\"bg-secondary text-white text-center m-2 p-2\">\r\n        Razor Page\r\n    </h5>\r\n    ");
 #nullable restore
 #line 11 "D:\Trainning\Asp.net\WA\WebApp\Pages\Shared\_Layout.cshtml"

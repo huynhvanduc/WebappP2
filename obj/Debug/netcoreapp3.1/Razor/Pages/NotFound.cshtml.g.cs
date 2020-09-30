@@ -13,6 +13,13 @@ namespace WebApp.Pages
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
+#line 4 "D:\Trainning\Asp.net\WA\WebApp\Pages\_ViewImports.cshtml"
+using WebApp.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "D:\Trainning\Asp.net\WA\WebApp\Pages\NotFound.cshtml"
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -28,7 +35,7 @@ using WebApp.Models;
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorCompiledItemMetadataAttribute("RouteTemplate", "/noid")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2c710885ba36cb3145654a9d77497a5e70589cdc", @"/Pages/NotFound.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89200d1c42b8de9ce4c0b017051217c34884f0db", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8c12024e2c1bcd4f4648258601c2decb70db301f", @"/Pages/_ViewImports.cshtml")]
     public class Pages_NotFound : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #line hidden
@@ -57,7 +64,7 @@ using WebApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c710885ba36cb3145654a9d77497a5e70589cdc3280", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c710885ba36cb3145654a9d77497a5e70589cdc3443", async() => {
                 WriteLiteral("\r\n    <link href=\"/lib/twitter-bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" />\r\n    <title>Not Found</title>\r\n");
             }
             );
@@ -71,7 +78,7 @@ using WebApp.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c710885ba36cb3145654a9d77497a5e70589cdc4367", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c710885ba36cb3145654a9d77497a5e70589cdc4530", async() => {
                 WriteLiteral("\r\n    <div class=\"bg-primary text-white text-center m-2 p-2\">No Matching ID</div>\r\n    <ul class=\"list-group m-2\">\r\n");
 #nullable restore
 #line 14 "D:\Trainning\Asp.net\WA\WebApp\Pages\NotFound.cshtml"

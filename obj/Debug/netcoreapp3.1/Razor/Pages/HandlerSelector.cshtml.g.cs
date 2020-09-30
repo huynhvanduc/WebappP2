@@ -20,6 +20,13 @@ using WebApp.Models;
 #line hidden
 #nullable disable
 #nullable restore
+#line 4 "D:\Trainning\Asp.net\WA\WebApp\Pages\_ViewImports.cshtml"
+using WebApp.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "D:\Trainning\Asp.net\WA\WebApp\Pages\HandlerSelector.cshtml"
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -34,7 +41,7 @@ using Microsoft.EntityFrameworkCore;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a8a448a52993720622c9c2ff90acc427482e786b", @"/Pages/HandlerSelector.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89200d1c42b8de9ce4c0b017051217c34884f0db", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8c12024e2c1bcd4f4648258601c2decb70db301f", @"/Pages/_ViewImports.cshtml")]
     public class Pages_HandlerSelector : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #line hidden
@@ -63,7 +70,7 @@ using Microsoft.EntityFrameworkCore;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8a448a52993720622c9c2ff90acc427482e786b3393", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8a448a52993720622c9c2ff90acc427482e786b3556", async() => {
                 WriteLiteral("\r\n    <link href=\"/lib/twitter-bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" />\r\n");
             }
             );
@@ -77,7 +84,7 @@ using Microsoft.EntityFrameworkCore;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8a448a52993720622c9c2ff90acc427482e786b4448", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8a448a52993720622c9c2ff90acc427482e786b4611", async() => {
                 WriteLiteral("\r\n    <div class=\"bg-primary text-white text-center m-2 p-2\">Selector</div>\r\n    <div class=\"m-2\">\r\n        <table class=\"table table-sm table-striped table-bordered\">\r\n            <tbody>\r\n                <tr><th>Name</th><td>");
 #nullable restore
 #line 15 "D:\Trainning\Asp.net\WA\WebApp\Pages\HandlerSelector.cshtml"

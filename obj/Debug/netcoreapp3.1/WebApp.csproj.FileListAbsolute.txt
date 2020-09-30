@@ -403,3 +403,10 @@ D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layou
 D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ProductPartial.cshtml.g.cs
 D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Data.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Cities.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CitySummary\Default.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CitiesPageHybrid\Default.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PageSize\Default.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Index.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CitiesControllerHybrid\Default.cshtml.g.cs

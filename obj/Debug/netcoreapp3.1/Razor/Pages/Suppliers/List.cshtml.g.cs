@@ -13,6 +13,13 @@ namespace WebApp.Pages.Suppliers
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
+#line 4 "D:\Trainning\Asp.net\WA\WebApp\Pages\_ViewImports.cshtml"
+using WebApp.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "D:\Trainning\Asp.net\WA\WebApp\Pages\Suppliers\List.cshtml"
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -28,7 +35,7 @@ using WebApp.Models;
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorCompiledItemMetadataAttribute("RouteTemplate", "/lists/suppliers")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"19b947c57ffc507ceb1aa56145f2599e74aed0bb", @"/Pages/Suppliers/List.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89200d1c42b8de9ce4c0b017051217c34884f0db", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8c12024e2c1bcd4f4648258601c2decb70db301f", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Suppliers_List : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #line hidden
@@ -57,7 +64,7 @@ using WebApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19b947c57ffc507ceb1aa56145f2599e74aed0bb3353", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19b947c57ffc507ceb1aa56145f2599e74aed0bb3516", async() => {
                 WriteLiteral("\r\n    <link href=\"/lib/twitter-bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" />\r\n");
             }
             );
@@ -71,7 +78,7 @@ using WebApp.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19b947c57ffc507ceb1aa56145f2599e74aed0bb4408", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19b947c57ffc507ceb1aa56145f2599e74aed0bb4571", async() => {
                 WriteLiteral("\r\n    <h5 class=\"bg-primary text-white text-center m-2 p-2\">Suppliers</h5>\r\n    <ul class=\"list-group m-2\">\r\n");
 #nullable restore
 #line 13 "D:\Trainning\Asp.net\WA\WebApp\Pages\Suppliers\List.cshtml"
