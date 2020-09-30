@@ -393,3 +393,13 @@ D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Impor
 D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\_RowPartial.cshtml.g.cs
 D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\_CellPartial.cshtml.g.cs
 D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Html.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Suppliers\List.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\NotFound.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Editor.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\HandlerSelector.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ProductPartial.cshtml.g.cs
+D:\Trainning\Asp.net\WA\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Data.cshtml.g.cs
